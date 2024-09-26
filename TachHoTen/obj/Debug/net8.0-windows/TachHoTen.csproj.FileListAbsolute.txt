@@ -1,0 +1,35 @@
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.exe
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.deps.json
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.runtimeconfig.json
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.dll
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.pdb
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.Form1.resources
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.csproj.GenerateResource.cache
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.AssemblyInfoInputs.cache
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.AssemblyInfo.cs
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.csproj.CoreCompileInputs.cache
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.dll
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\refint\TachHoTen.dll
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.pdb
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.genruntimeconfig.cache
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\ref\TachHoTen.dll
+D:\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.Properties.Resources.resources
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.exe
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.deps.json
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.runtimeconfig.json
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.dll
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\bin\Debug\net8.0-windows\TachHoTen.pdb
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.Properties.Resources.resources
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.csproj.GenerateResource.cache
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.AssemblyInfoInputs.cache
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.AssemblyInfo.cs
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.csproj.CoreCompileInputs.cache
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.dll
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\refint\TachHoTen.dll
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.pdb
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.genruntimeconfig.cache
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\ref\TachHoTen.dll
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\PTBac2.Form1.resources
+D:\Học tập\C#\C# PTUDQL\Project\TachHoTen\TachHoTen\obj\Debug\net8.0-windows\TachHoTen.frmTachHoTen.resources
